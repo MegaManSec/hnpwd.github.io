@@ -31,7 +31,7 @@ Add Your Website
 
 ## Criteria
 
-Please ensure that a website meets the following criteria before
+Please check whether a website meets the following criteria before
 requesting its inclusion in the directory:
 
  1. The website must be a personal website, where the author of the
@@ -60,6 +60,11 @@ submission process laid out in the next section.  These requirements
 help ensure that our directory remains interesting and substantive.
 They prevent iour directory from becoming a collection of minimal or
 placeholder websites with little content of value to the community.
+
+If a website does not satisfy the above criteria but you think it is
+still quite interesting (for example, it has interesting posts, games
+etc.), please make a request to add it anyway. If it looks interesting
+enough, we may still add it.
 
 
 ## Add
