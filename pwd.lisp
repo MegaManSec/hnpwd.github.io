@@ -105,6 +105,12 @@
   :hnuid "simonw"
   :bio "Creator of Datasette and co-creator of Django.")
 
+ (:name "Steven DeGraeve"
+  :site "https://www.degraeve.com/"
+  :blog "https://www.degraeve.com/blog/"
+  :about "https://www.degraeve.com/about/"
+  :bio "Develops tools and generative art.  Writes about software and building websites.")
+
  (:name "Susam Pal"
   :site "https://susam.net/"
   :feed "https://susam.net/feed.xml"
